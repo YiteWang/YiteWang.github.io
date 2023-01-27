@@ -8,9 +8,6 @@ author_profile: true
 
 {% include base_path %}
 
-Services
-======
-
 **Reviewer for:**
 
 - ICML 2022 (Outstanding reviewer), ICML 2023
