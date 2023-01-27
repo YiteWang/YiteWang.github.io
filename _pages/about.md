@@ -10,11 +10,11 @@ redirect_from:
 
 I am a Ph.D. student at University of Illinois at Urbana-Chamapign advised by Prof. Ruoyu Sun with co-advisor Prof. Naira Hovakimyan. 
 
-**Research interest:** neural network pruning; neural architecture search (NAS); generative models (GANs); graph neural networks (GNN).
+**Research interest:** neural network pruning; neural architecture search (NAS); deep generative models; graph neural networks (GNN); numerical methods.
 
 ## News
 
-[**Jan. 2023**] One paper about foresight pruning is accepted to ICLR2023.
+[**Jan. 2023**] Our paper about foresight pruning is accepted to ICLR2023.
 
 [**March. 2022**] Our paper about neural architecture search for meta learning is accpeted to CVPR2022.
 
@@ -30,7 +30,7 @@ I am a Ph.D. student at University of Illinois at Urbana-Chamapign advised by Pr
 
 - Global Convergence of MAML and Theory-Inspired Neural Architecture Search for Few-Shot Learning
   
-  Haoxiang Wang \*, ____<u>Yite Wang</u>____ \*, Ruoyu Sun, Bo Li
+  Haoxiang Wang \*, <u>Yite Wang</u> \*, Ruoyu Sun, Bo Li
   
   *The IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) 2022* [[arxiv](https://arxiv.org/abs/2203.09137)]
 
