@@ -16,5 +16,4 @@ Education
 * M.S., University of Illinois at Urbana-Champaign, 2019
 * Ph.D, University of Illinois at Urbana-Champaign, 2024 (expected)
 
-
 ======
