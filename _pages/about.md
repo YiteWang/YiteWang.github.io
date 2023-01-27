@@ -14,9 +14,9 @@ I am a Ph.D. student at University of Illinois at Urbana-Chamapign advised by Pr
 
 ## News
 
-[**Jan. 2023**] Our paper about foresight pruning is accepted to ICLR2023.
+[**Jan. 2023**] Our paper about foresight pruning is accepted to ICLR 2023!
 
-[**March. 2022**] Our paper about neural architecture search for meta learning is accpeted to CVPR2022.
+[**March. 2022**] Our paper about neural architecture search for meta learning is accpeted to CVPR 2022!
 
 ## Publications
 
@@ -30,7 +30,7 @@ I am a Ph.D. student at University of Illinois at Urbana-Chamapign advised by Pr
 
 - Global Convergence of MAML and Theory-Inspired Neural Architecture Search for Few-Shot Learning
   
-  Haoxiang Wang \*, <u>Yite Wang</u> \*, Ruoyu Sun, Bo Li
+  Haoxiang Wang \*, **<u>Yite Wang</u>** \*, Ruoyu Sun, Bo Li
   
   *The IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) 2022* [[arxiv](https://arxiv.org/abs/2203.09137)]
 
