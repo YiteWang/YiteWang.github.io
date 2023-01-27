@@ -14,9 +14,9 @@ I am a Ph.D. student at University of Illinois at Urbana-Chamapign advised by Pr
 
 ## News
 
-[**Jan. 2023**] Our paper NTK-SAP is accepted to ICLR2023.
+[**Jan. 2023**] One paper about foresight pruning is accepted to ICLR2023.
 
-[**March. 2022**] Our paper Global Convergence of MAML and Theory-Inspired Neural Architecture Search for Few-Shot Learning is accpeted to CVPR2022.
+[**March. 2022**] Our paper about neural architecture search for meta learning is accpeted to CVPR2022.
 
 ## Publications
 
