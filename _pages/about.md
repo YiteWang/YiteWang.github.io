@@ -30,7 +30,7 @@ I am a Ph.D. student at University of Illinois at Urbana-Chamapign advised by Pr
 
 - Global Convergence of MAML and Theory-Inspired Neural Architecture Search for Few-Shot Learning
   
-  Haoxiang Wang&ast;, **<u>Yite Wang</u>**&ast; , Ruoyu Sun, Bo Li
+  Haoxiang Wang`*`;, **<u>Yite Wang</u>**`*`, Ruoyu Sun, Bo Li
   
   *The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2022* [[arxiv](https://arxiv.org/abs/2203.09137)]
 
