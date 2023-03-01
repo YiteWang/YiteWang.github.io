@@ -14,6 +14,8 @@ I am a Ph.D. student at University of Illinois at Urbana-Chamapign advised by Pr
 
 ## News
 
+[**Feb. 2023**] Our paper on dynamic sparse training for GANs is made public on arxiv!
+
 [**Jan. 2023**] Our paper about foresight pruning is accepted to ICLR 2023!
 
 [**March. 2022**] Our paper about neural architecture search for meta learning is accpeted to CVPR 2022!
@@ -21,6 +23,12 @@ I am a Ph.D. student at University of Illinois at Urbana-Chamapign advised by Pr
 ## Publications
 
 (* denotes to equal contribution)
+
+- Double Dynamic Sparse Training for GANs
+  
+  **<u>Yite Wang</u>** *, Jing Wu *, Naira Hovakimyan, Ruoyu Sun
+  
+  Preprint [[arxiv](https://arxiv.org/abs/2302.14670)]
 
 - NTK-SAP: Improving neural network pruning by aligning training dynamics
   
