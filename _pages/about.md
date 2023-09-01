@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at University of Illinois at Urbana-Chamapign advised by Prof. Ruoyu Sun with co-advisor Prof. Naira Hovakimyan. 
+I am a Ph.D. student at University of Illinois at Urbana-Chamapign advised by [Prof. Ruoyu Sun](https://ruoyus.github.io/) with co-advisor [Prof. Naira Hovakimyan](http://naira.mechse.illinois.edu/). During the first year of my Ph.D., I worked with [Prof. Justin Sirignano](https://jasirign.github.io/) on deep learning for computational fluid mechanics (CFD).
 
-**Research interest:** neural network pruning; neural architecture search (NAS); deep generative models; graph neural networks (GNN); numerical methods.
+**Research interest:** Efficient deep learning; Neural network pruning; Neural architecture search (NAS); Generative models; Graph neural networks (GNN); Numerical methods.
 
 ## News
 
@@ -22,11 +22,11 @@ I am a Ph.D. student at University of Illinois at Urbana-Chamapign advised by Pr
 
 ## Publications
 
-(* denotes to equal contribution)
+( $\dagger$ denotes to equal contribution)
 
 - Double Dynamic Sparse Training for GANs
   
-  **<u>Yite Wang</u>** *, Jing Wu *, Naira Hovakimyan, Ruoyu Sun
+  **<u>Yite Wang</u>**$\dagger$, Jing Wu$\dagger$, Naira Hovakimyan, Ruoyu Sun
   
   Preprint [[arxiv](https://arxiv.org/abs/2302.14670)]
 
@@ -38,7 +38,7 @@ I am a Ph.D. student at University of Illinois at Urbana-Chamapign advised by Pr
 
 - Global Convergence of MAML and Theory-Inspired Neural Architecture Search for Few-Shot Learning
   
-  Haoxiang Wang \*, **<u>Yite Wang</u>** \*, Ruoyu Sun, Bo Li
+  Haoxiang Wang$\dagger$, **<u>Yite Wang</u>**$\dagger$, Ruoyu Sun, Bo Li
   
   *The IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) 2022* [[arxiv](https://arxiv.org/abs/2203.09137)]
 
