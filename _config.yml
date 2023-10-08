@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yite Wang"
 title_separator          : "-"
 name                     : &name "Yite Wang"
-description              : &description "Research scientist at University of Illinois at Urbana-Champaign"
+description              : &description "Research assistant at University of Illinois at Urbana-Champaign"
 url                      : https://YiteWang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YiteWang/YiteWang.github.io"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/YiteWang"
+  github           : "YiteWang"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/YW91856288"
+  twitter          : "YW91856288"
   vine             :
   weibo            :
   xing             :
