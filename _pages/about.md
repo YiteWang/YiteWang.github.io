@@ -14,9 +14,11 @@ I am a Ph.D. student at University of Illinois at Urbana-Chamapign advised by [P
 
 ## News
 
+[**Oct. 2023**] Our paper on model expansion is made public on arXiv!
+
 [**Sept. 2023**] Our paper about dynamic sparse training for GANs is accepted to NeurIPS 2023!
 
-[**Feb. 2023**] Our paper on dynamic sparse training for GANs is made public on arxiv!
+[**Feb. 2023**] Our paper on dynamic sparse training for GANs is made public on arXiv!
 
 [**Jan. 2023**] Our paper about foresight pruning is accepted to ICLR 2023!
 
@@ -26,26 +28,31 @@ I am a Ph.D. student at University of Illinois at Urbana-Chamapign advised by [P
 
 ( $\dagger$ denotes to equal contribution)
 
-- Balanced Training for Sparse GANs
+* **LEMON: Lossless model expansion** [[arXiv](https://arxiv.org/abs/2310.07999)]
+  
+  **<u>Yite Wang</u>**, Jiahao Su, Hanlin Lu, Cong Xie, Tianyi Liu, Jianbo Yuan, Haibin Lin, Ruoyu Sun, Hongxia Yang
+  
+  Preprint
+- **Balanced Training for Sparse GANs**
   
   **<u>Yite Wang</u>**$\dagger$, Jing Wu$\dagger$, Naira Hovakimyan, Ruoyu Sun
   
-  *Neural Information Processing Systems* *(NeurIPS)* 2023
+  *NeurIPS'2023: Neural Information Processing Systems* 
 
-- NTK-SAP: Improving neural network pruning by aligning training dynamics
+- **NTK-SAP: Improving neural network pruning by aligning training dynamics** [[OpenReview](https://openreview.net/forum?id=-5EWhW_4qWP),[arXiv](https://arxiv.org/abs/2304.02840)]
   
   **<u>Yite Wang</u>**, Dawei Li, Ruoyu Sun
   
-  *International Conference on Learning Representations (ICLR)* 2023 [[Openreview](https://openreview.net/forum?id=-5EWhW_4qWP)]
+  *ICLR'2023: International Conference on Learning Representations* 
 
-- Global Convergence of MAML and Theory-Inspired Neural Architecture Search for Few-Shot Learning
+- **Global Convergence of MAML and Theory-Inspired Neural Architecture Search for Few-Shot Learning** [[arXiv](https://arxiv.org/abs/2203.09137)]
   
   Haoxiang Wang$\dagger$, **<u>Yite Wang</u>**$\dagger$, Ruoyu Sun, Bo Li
   
-  *The IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) 2022* [[arxiv](https://arxiv.org/abs/2203.09137)]
+  *CVPR'2022: The IEEE/CVF Computer Vision and Pattern Recognition Conference*
 
-- Numerical investigation of convective transport in redox flow battery tanks: Using baffles to increase utilization
+- **Numerical investigation of convective transport in redox flow battery tanks: Using baffles to increase utilization** [[paper](https://www.sciencedirect.com/science/article/abs/pii/S2352152X19303469)]
   
   **<u>Yite Wang</u>**, Kyle Smith
   
-  *Journal of Energy Storage* [[paper](https://www.sciencedirect.com/science/article/abs/pii/S2352152X19303469)]
+  *Journal of Energy Storage* 
