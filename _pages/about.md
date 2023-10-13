@@ -32,7 +32,7 @@ I am a Ph.D. student at University of Illinois at Urbana-Chamapign advised by [P
   
   **<u>Yite Wang</u>**, Jiahao Su, Hanlin Lu, Cong Xie, Tianyi Liu, Jianbo Yuan, Haibin Lin, Ruoyu Sun, Hongxia Yang
   
-  Preprint
+  *Preprint*
 - **Balanced Training for Sparse GANs**
   
   **<u>Yite Wang</u>**$\dagger$, Jing Wu$\dagger$, Naira Hovakimyan, Ruoyu Sun
