@@ -14,15 +14,15 @@ I am a Ph.D. student at University of Illinois at Urbana-Chamapign advised by [P
 
 ## News
 
-[**Oct. 2023**] Our paper on model expansion is made public on arXiv!
+**[Oct. 2023]** Our paper on model expansion is made public on arXiv!
 
-[**Sept. 2023**] Our paper about dynamic sparse training for GANs is accepted to NeurIPS 2023!
+**[Sept. 2023]** Our paper about dynamic sparse training for GANs is accepted to NeurIPS 2023!
 
-[**Feb. 2023**] Our paper on dynamic sparse training for GANs is made public on arXiv!
+**[Feb. 2023]** Our paper on dynamic sparse training for GANs is made public on arXiv!
 
-[**Jan. 2023**] Our paper about foresight pruning is accepted to ICLR 2023!
+**[Jan. 2023]** Our paper about foresight pruning is accepted to ICLR 2023!
 
-[**March. 2022**] Our paper about neural architecture search for meta learning is accpeted to CVPR 2022!
+**[March. 2022]** Our paper about neural architecture search for meta learning is accpeted to CVPR 2022!
 
 ## Publications
 
