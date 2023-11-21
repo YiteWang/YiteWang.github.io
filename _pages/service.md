@@ -10,12 +10,12 @@ author_profile: true
 
 **Reviewer for:**
 
-- **ICML:** 2022 (Outstanding reviewer), 2023
+- **[ICML](https://icml.cc/):** 2022 (Outstanding reviewer), 2023
 
-- **NeurIPS:** 2022 (Top reviewer), 2023
+- **[NeurIPS](https://neurips.cc/):** 2022 (Top reviewer), 2023
 
-- **ICLR:** 2024
+- **[ICLR](https://iclr.cc/):** 2024
 
-- **AISTATS:** 2022
+- **[AISTATS](https://aistats.org/aistats2024/):** 2022
 
-- **CVPR:** 2023 
+- **[CVPR](https://cvpr.thecvf.com/):** 2023 
