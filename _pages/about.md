@@ -32,14 +32,14 @@ I am a Ph.D. student at University of Illinois at Urbana-Chamapign advised by [P
   
   **<u>Yite Wang</u>**, Jiahao Su, Hanlin Lu, Cong Xie, Tianyi Liu, Jianbo Yuan, Haibin Lin, Ruoyu Sun, Hongxia Yang
   
-  *Preprint*
-- **Balanced Training for Sparse GANs**
+  ***Preprint***
+- **Balanced Training for Sparse GANs** [[arXiv](https://arxiv.org/abs/2302.14670), [page](https://neurips.cc/virtual/2023/poster/70078)]
   
   **<u>Yite Wang</u>**$\dagger$, Jing Wu$\dagger$, Naira Hovakimyan, Ruoyu Sun
   
   *NeurIPS'2023: Neural Information Processing Systems* 
 
-- **NTK-SAP: Improving neural network pruning by aligning training dynamics** [[OpenReview](https://openreview.net/forum?id=-5EWhW_4qWP),[arXiv](https://arxiv.org/abs/2304.02840)]
+- **NTK-SAP: Improving neural network pruning by aligning training dynamics** [[OpenReview](https://openreview.net/forum?id=-5EWhW_4qWP), [arXiv](https://arxiv.org/abs/2304.02840), [page](https://iclr.cc/virtual/2023/poster/12107)]
   
   **<u>Yite Wang</u>**, Dawei Li, Ruoyu Sun
   
