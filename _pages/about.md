@@ -14,17 +14,17 @@ I am a Ph.D. student at University of Illinois at Urbana-Chamapign advised by [P
 
 ## News
 
-**[Jan. 2024]** Our paper on model expansion is accepted to ICLR 2024!
+**[Jan. 2024]** Our paper on model expansion is accepted to ICLR'2024!
 
 **[Oct. 2023]** Our paper on model expansion is made public on arXiv!
 
-**[Sept. 2023]** Our paper about dynamic sparse training for GANs is accepted to NeurIPS 2023!
+**[Sept. 2023]** Our paper about dynamic sparse training for GANs is accepted to NeurIPS'2023!
 
 **[Feb. 2023]** Our paper on dynamic sparse training for GANs is made public on arXiv!
 
-**[Jan. 2023]** Our paper about foresight pruning is accepted to ICLR 2023!
+**[Jan. 2023]** Our paper about foresight pruning is accepted to ICLR'2023!
 
-**[March. 2022]** Our paper about neural architecture search for meta learning is accpeted to CVPR 2022!
+**[March. 2022]** Our paper about neural architecture search for meta learning is accpeted to CVPR'2022!
 
 ## Publications
 
@@ -34,27 +34,27 @@ I am a Ph.D. student at University of Illinois at Urbana-Chamapign advised by [P
   
   **<u>Yite Wang</u>**, Jiahao Su, Hanlin Lu, Cong Xie, Tianyi Liu, Jianbo Yuan, Haibin Lin, Ruoyu Sun, Hongxia Yang
   
-  *ICLR'2024：International Conference on Learning Representations*
+  ***ICLR'2024**：International Conference on Learning Representations*
 - **Balanced Training for Sparse GANs** [[arXiv](https://arxiv.org/abs/2302.14670), [page](https://neurips.cc/virtual/2023/poster/70078), [GitHub](https://github.com/YiteWang/ADAPT)]
   
   **<u>Yite Wang</u>**$\dagger$, Jing Wu$\dagger$, Naira Hovakimyan, Ruoyu Sun
   
-  *NeurIPS'2023: Neural Information Processing Systems* 
+  ***NeurIPS'2023**: Neural Information Processing Systems* 
 
 - **NTK-SAP: Improving neural network pruning by aligning training dynamics** [[arXiv](https://arxiv.org/abs/2304.02840), [page](https://iclr.cc/virtual/2023/poster/12107), [Github](https://github.com/YiteWang/NTK-SAP)]
   
   **<u>Yite Wang</u>**, Dawei Li, Ruoyu Sun
   
-  *ICLR'2023: International Conference on Learning Representations* 
+  ***ICLR'2023**: International Conference on Learning Representations* 
 
 - **Global Convergence of MAML and Theory-Inspired Neural Architecture Search for Few-Shot Learning** [[arXiv](https://arxiv.org/abs/2203.09137), [Github](https://github.com/YiteWang/MetaNTK-NAS)]
   
   Haoxiang Wang$\dagger$, **<u>Yite Wang</u>**$\dagger$, Ruoyu Sun, Bo Li
   
-  *CVPR'2022: The IEEE/CVF Computer Vision and Pattern Recognition Conference*
+  ***CVPR'2022**: The IEEE/CVF Computer Vision and Pattern Recognition Conference*
 
 - **Numerical investigation of convective transport in redox flow battery tanks: Using baffles to increase utilization** [[paper](https://www.sciencedirect.com/science/article/abs/pii/S2352152X19303469)]
   
   **<u>Yite Wang</u>**, Kyle Smith
   
-  *Journal of Energy Storage* 
+  ***Journal of Energy Storage*** 
