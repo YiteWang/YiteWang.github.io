@@ -34,7 +34,7 @@ I am a Ph.D. student at University of Illinois at Urbana-Chamapign advised by [P
   
   **<u>Yite Wang</u>**, Jiahao Su, Hanlin Lu, Cong Xie, Tianyi Liu, Jianbo Yuan, Haibin Lin, Ruoyu Sun, Hongxia Yang
   
-  *ICLR‘2024：International Conference on Learning Representations*
+  *ICLR'2024：International Conference on Learning Representations*
 - **Balanced Training for Sparse GANs** [[arXiv](https://arxiv.org/abs/2302.14670), [page](https://neurips.cc/virtual/2023/poster/70078), [GitHub](https://github.com/YiteWang/ADAPT)]
   
   **<u>Yite Wang</u>**$\dagger$, Jing Wu$\dagger$, Naira Hovakimyan, Ruoyu Sun
