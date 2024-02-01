@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. student at University of Illinois at Urbana-Chamapign advised by [Prof. Ruoyu Sun](https://ruoyus.github.io/) with co-advisor [Prof. Naira Hovakimyan](http://naira.mechse.illinois.edu/). During the first year of my Ph.D., I worked with [Prof. Justin Sirignano](https://jasirign.github.io/) on deep learning for computational fluid mechanics (CFD). During my master's degree, I worked with [Prof. Kyle Smith](https://kcsmith.mechse.illinois.edu/) on computational methods for energy storage systems.
 
-**Research interest:** Efficient deep learning; Natual language processing; Generative models; Graph neural networks (GNN); Numerical methods.
+**Research interest:** Efficient deep learning; Natural language processing; Generative models; Graph neural networks (GNN); Numerical methods.
 
 ## News
 
