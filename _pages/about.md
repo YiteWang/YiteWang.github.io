@@ -30,24 +30,24 @@ I am a Ph.D. student at University of Illinois at Urbana-Chamapign advised by [P
 
 ( $\dagger$ denotes to equal contribution)
 
-* **LEMON: Lossless model expansion** [[arXiv](https://arxiv.org/abs/2310.07999)]
+* **LEMON: Lossless model expansion** [[arXiv](https://arxiv.org/abs/2310.07999), [code](https://github.com/YiteWang/lemon-pytorch)]
   
   **<u>Yite Wang</u>**, Jiahao Su, Hanlin Lu, Cong Xie, Tianyi Liu, Jianbo Yuan, Haibin Lin, Ruoyu Sun, Hongxia Yang
   
   ***ICLR'2024**：International Conference on Learning Representations*
-- **Balanced Training for Sparse GANs** [[arXiv](https://arxiv.org/abs/2302.14670), [page](https://neurips.cc/virtual/2023/poster/70078), [GitHub](https://github.com/YiteWang/ADAPT)]
+- **Balanced Training for Sparse GANs** [[arXiv](https://arxiv.org/abs/2302.14670), [page](https://neurips.cc/virtual/2023/poster/70078), [code](https://github.com/YiteWang/ADAPT)]
   
   **<u>Yite Wang</u>**$\dagger$, Jing Wu$\dagger$, Naira Hovakimyan, Ruoyu Sun
   
   ***NeurIPS'2023**: Neural Information Processing Systems* 
 
-- **NTK-SAP: Improving neural network pruning by aligning training dynamics** [[arXiv](https://arxiv.org/abs/2304.02840), [page](https://iclr.cc/virtual/2023/poster/12107), [Github](https://github.com/YiteWang/NTK-SAP)]
+- **NTK-SAP: Improving neural network pruning by aligning training dynamics** [[arXiv](https://arxiv.org/abs/2304.02840), [page](https://iclr.cc/virtual/2023/poster/12107), [code](https://github.com/YiteWang/NTK-SAP)]
   
   **<u>Yite Wang</u>**, Dawei Li, Ruoyu Sun
   
   ***ICLR'2023**: International Conference on Learning Representations* 
 
-- **Global Convergence of MAML and Theory-Inspired Neural Architecture Search for Few-Shot Learning** [[arXiv](https://arxiv.org/abs/2203.09137), [Github](https://github.com/YiteWang/MetaNTK-NAS)]
+- **Global Convergence of MAML and Theory-Inspired Neural Architecture Search for Few-Shot Learning** [[arXiv](https://arxiv.org/abs/2203.09137), [code](https://github.com/YiteWang/MetaNTK-NAS)]
   
   Haoxiang Wang$\dagger$, **<u>Yite Wang</u>**$\dagger$, Ruoyu Sun, Bo Li
   
