@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-* Ph.D, University of Illinois at Urbana-Champaign, 2024 (expected)
+* Ph.D, University of Illinois at Urbana-Champaign, 2024
 * M.S., University of Illinois at Urbana-Champaign, 2019
 * B.S., Zhejiang University, 2017
