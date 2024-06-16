@@ -8,23 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student working on **Deep Learning** at University of Illinois at Urbana-Chamapign. I am advised by [Prof. Ruoyu Sun](https://ruoyus.github.io/) and co-advised by [Prof. Naira Hovakimyan](http://naira.mechse.illinois.edu/). During the first year of my Ph.D., I worked with [Prof. Justin Sirignano](https://jasirign.github.io/) on deep learning for computational fluid mechanics (CFD). During my master's degree, I worked with [Prof. Kyle Smith](https://kcsmith.mechse.illinois.edu/) on computational methods for energy storage systems.
+I am currently a Research Scientist at ByteDance, working on large language models for code generation.
+
+Previously, I was a Ph.D. student working on **Deep Learning** at University of Illinois at Urbana-Chamapign. I was advised by [Prof. Ruoyu Sun](https://ruoyus.github.io/) and co-advised by [Prof. Naira Hovakimyan](http://naira.mechse.illinois.edu/). During the first year of my Ph.D., I worked with [Prof. Justin Sirignano](https://jasirign.github.io/) on deep learning for computational fluid mechanics (CFD). During my master's degree, I worked with [Prof. Kyle Smith](https://kcsmith.mechse.illinois.edu/) on computational methods for energy storage systems.
 
 **Research interest:** Efficient Deep Learning; Natural Language Processing; Computer Vision; Generative Models; Graph Neural Networks (GNN); Numerical Methods.
 
 ## News
 
+**[May. 2024]** I have joined ByteDance as a Research Scientist.
+
 **[Mar. 2024]** I have successfully defended my Ph.D. thesis!
 
 **[Jan. 2024]** Our paper on model expansion is accepted to ICLR'2024!
 
-**[Oct. 2023]** Our paper on model expansion is made public on arXiv!
-
 **[Oct. 2023]** I have received the NeurIPS 2023 Scholar Award!
 
 **[Sept. 2023]** Our paper about dynamic sparse training for GANs is accepted to NeurIPS'2023!
-
-**[Feb. 2023]** Our paper on dynamic sparse training for GANs is made public on arXiv!
 
 **[Jan. 2023]** Our paper about foresight pruning is accepted to ICLR'2023!
 

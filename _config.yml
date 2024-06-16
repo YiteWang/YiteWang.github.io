@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yite Wang"
 title_separator          : "-"
 name                     : &name "Yite Wang"
-description              : &description "Research assistant at University of Illinois at Urbana-Champaign"
+description              : &description "Research Scientist at ByteDance"
 url                      : https://YiteWang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YiteWang/YiteWang.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yite Wang"
   avatar           : "pic.jpg"
-  bio              : "PhD student at UIUC"
-  location         : "Champaign, IL"
+  bio              : "Research Scientist at ByteDance"
+  location         : "Bellevue, WA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=wEGgxUIAAAAJ&hl=en"
