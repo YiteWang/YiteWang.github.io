@@ -19,3 +19,5 @@ author_profile: true
 - **[AISTATS](https://aistats.org/aistats2024/):** 2022
 
 - **[CVPR](https://cvpr.thecvf.com/):** 2023 
+
+- **[ICPR](https://icpr2024.org/):** 2024
