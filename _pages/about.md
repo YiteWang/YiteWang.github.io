@@ -10,7 +10,7 @@ redirect_from:
 
 I’m a Research Scientist at Snowflake AI Research, where I train reasoning models and LLM agents, especially for structured data. Before that, I was a Research Scientist on Bytedance’s Seed‑Foundation‑Code team.
 
-I earned my Ph.D. from the University of Illinois at Urbana‑Champaign under [Prof. Ruoyu Sun](https://ruoyus.github.io/), with co‑advising from [Prof. Naira Hovakimyan](http://naira.mechse.illinois.edu/). In my first year I collaborated with [Prof. Justin Sirignano](https://jasirign.github.io/) on deep‑learning for computational fluid dynamics (CFD), and during my master’s studies I worked with [Prof. Kyle Smith](https://kcsmith.mechse.illinois.edu/) on numerical simulation for energy storage systems.
+I earned my Ph.D. from the University of Illinois at Urbana‑Champaign under [Prof. Ruoyu Sun](https://ruoyus.github.io/), with co‑advising from [Prof. Naira Hovakimyan](http://naira.mechse.illinois.edu/). In my first year I collaborated with [Prof. Justin Sirignano](https://www.maths.ox.ac.uk/people/justin.sirignano) on deep‑learning for computational fluid dynamics (CFD), and during my master’s studies I worked with [Prof. Kyle Smith](https://kcsmith.mechse.illinois.edu/) on numerical simulation for energy storage systems.
 
 **Research interests:** Reasoning Models; Agent; Efficient Deep Learning; Natural Language Processing; Computer Vision; Numerical Methods.
 
