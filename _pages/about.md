@@ -14,6 +14,18 @@ I earned my Ph.D. from the University of Illinois at Urbana‑Champaign under [P
 
 **Research interests:** Reasoning Models; Agent; Efficient Deep Learning; Natural Language Processing; Computer Vision; Numerical Methods.
 
+**Hiring**: [Snowflake AI Research](https://www.snowflake.com/en/product/ai/ai-research/) is seeking research scientist interns for remote, long-term positions (3-6 months, part-time) starting August 2025. Projects include:
+
+- Post‑training tool‑augmented LLMs
+
+- Development of personalized Text‑to‑SQL models
+
+- Deep Research on structured data
+
+- Developing and training of data‑science agents
+
+If  you are interested, don't hesitate to send your resume to yite.wang@snowflake.com .
+
 ## News
 
 **[April. 2025]** I have joined Snowflake AI Research working on reasoning models and LLM Agents.
