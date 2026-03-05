@@ -12,4 +12,3 @@ This work proposes Agent World Model, which creates effectively unbounded synthe
 
 [Read on arXiv](https://arxiv.org/abs/2602.10090)
 
-Recommended citation: Zhaoyang Wang, Canwen Xu, Boyi Liu, Yite Wang, Siwei Han, Zhewei Yao, Huaxiu Yao, and Yuxiong He. (2026). "Agent World Model: Infinity Synthetic Environments for Agentic Reinforcement Learning." <i>arXiv:2602.10090</i>.

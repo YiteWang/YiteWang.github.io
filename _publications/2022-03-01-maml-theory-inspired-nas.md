@@ -7,9 +7,12 @@ date: 2022-03-01
 venue: 'CVPR 2022'
 paperurl: 'https://arxiv.org/abs/2203.09137'
 citation: 'Haoxiang Wang, Yite Wang, Ruoyu Sun, and Bo Li. (2022). &quot;Global Convergence of MAML and Theory-Inspired Neural Architecture Search for Few-Shot Learning.&quot; <i>CVPR 2022</i>.'
+
+equal_contribution: 'Yite Wang and Haoxiang Wang contributed equally to this work.'
 ---
 This work studies global convergence properties of MAML and proposes theory-inspired NAS for few-shot learning.
 
 [Read on arXiv](https://arxiv.org/abs/2203.09137)
 
 [Code repository](https://github.com/YiteWang/MetaNTK-NAS)
+
