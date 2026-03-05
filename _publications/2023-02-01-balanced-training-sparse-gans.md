@@ -7,7 +7,7 @@ date: 2023-02-01
 venue: 'NeurIPS 2023'
 paperurl: 'https://arxiv.org/abs/2302.14670'
 citation: 'Yite Wang, Jing Wu, Naira Hovakimyan, and Ruoyu Sun. (2023). &quot;Balanced Training for Sparse GANs.&quot; <i>NeurIPS 2023</i>.'
-
+citation_authors: 'Yite Wang&dagger;, Jing Wu&dagger;, Naira Hovakimyan, and Ruoyu Sun.'
 equal_contribution: 'Yite Wang and Jing Wu contributed equally to this work.'
 ---
 This work studies balanced optimization strategies for sparse GAN training.
