@@ -1,0 +1,71 @@
+{% comment %}
+  Local override for al_folio_cv experience entries.
+  Keep dates in the left column and place locations with the employer.
+{% endcomment %}
+
+<ul class="card-text font-weight-light list-group list-group-flush cv-list-clean">
+  {% for entry in entries %}
+    <li class="list-group-item">
+      {% assign start_date = entry.start_date | default: entry.startDate | strip %}
+      {% assign end_date = entry.end_date | default: entry.endDate | strip %}
+      {% assign start_year = start_date | split: '-' | first | strip %}
+      {% assign end_year = end_date | split: '-' | first | strip %}
+      {% if end_year == 'present' %}
+        {% assign end_year = 'Present' %}
+      {% endif %}
+      {% if start_year != '' %}
+        {% if end_year == '' %}
+          {% assign end_year = 'Present' %}
+        {% endif %}
+        {% assign date = start_year | append: ' - ' | append: end_year %}
+      {% else %}
+        {% assign date = '' %}
+      {% endif %}
+
+      {% assign position_title = entry.position | strip %}
+      {% assign company_name = entry.name | default: entry.company | default: entry.organization | strip %}
+      {% assign location = entry.location | strip %}
+
+      <div class="row cv-entry-row">
+        <div class="col-12 col-sm-3 col-md-2 cv-date-column">
+          {% if date != '' %}
+            <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">{{ date }}</span>
+          {% endif %}
+        </div>
+        <div class="col-12 col-sm-9 col-md-10 cv-detail-column">
+          {% if entry.url %}
+            <h6 class="title font-weight-bold">
+              <a href="{{ entry.url }}">{{ position_title }}</a>
+            </h6>
+          {% elsif position_title != '' %}
+            <h6 class="title font-weight-bold">{{ position_title }}</h6>
+          {% endif %}
+
+          {% if company_name != '' or location != '' %}
+            <p class="cv-meta">
+              {% if company_name != '' %}{{ company_name }}{% endif %}
+              {% if company_name != '' and location != '' %}<span class="cv-meta-separator">&middot;</span>{% endif %}
+              {% if location != '' %}
+                <span class="cv-location"><i class="fa-solid fa-location-dot iconlocation"></i> {{ location }}</span>
+              {% endif %}
+            </p>
+          {% endif %}
+
+          {% if entry.summary %}
+            <p class="cv-summary">{{ entry.summary | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+          {% endif %}
+
+          {% if entry.highlights %}
+            <ul class="items">
+              {% for item in entry.highlights %}
+                <li>
+                  <span class="item">{{ item | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+                </li>
+              {% endfor %}
+            </ul>
+          {% endif %}
+        </div>
+      </div>
+    </li>
+  {% endfor %}
+</ul>

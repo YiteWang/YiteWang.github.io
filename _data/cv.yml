@@ -1,0 +1,56 @@
+cv:
+  name: Yite Wang
+  label: Research Scientist
+  email: yite.wang@snowflake.com
+  location: Bellevue, WA
+  image: ""
+  summary: Research Scientist at Snowflake AI Research working on reasoning models, LLM agents, and structured data.
+
+  social_networks:
+    - network: GitHub
+      username: YiteWang
+    - network: LinkedIn
+      username: yite-wang-261057140
+    - network: X
+      username: YW91856288
+
+  sections:
+    Education:
+      - institution: University of Illinois at Urbana-Champaign
+        location: Urbana-Champaign, IL
+        studyType: Ph.D.
+        start_date: 2019
+        end_date: 2024
+
+      - institution: University of Illinois at Urbana-Champaign
+        location: Urbana-Champaign, IL
+        studyType: M.S.
+        start_date: 2017
+        end_date: 2019
+
+      - institution: Zhejiang University
+        location: Hangzhou, China
+        studyType: B.S.
+        start_date: 2013
+        end_date: 2017
+
+    Experience:
+      - company: Snowflake AI Research
+        position: Research Scientist
+        location: WA, USA
+        start_date: 2025-04
+        end_date: present
+        highlights:
+          - Reasoning models and LLM agents for structured data.
+
+      - company: ByteDance Seed-Foundation-Code
+        position: Research Scientist
+        location: WA, USA
+        start_date: 2024-05
+        end_date: 2025-04
+        highlights:
+          - Large language models for code.
+
+    Interests:
+      - name: Research
+        keywords: Reasoning Models, Agent, Efficient Deep Learning, Natural Language Processing, Computer Vision, Numerical Methods

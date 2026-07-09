@@ -1,29 +1,11 @@
 ---
-layout: archive
-title: "Service"
+layout: page
+title: service
 permalink: /service/
-author_profile: true
-
+nav: true
+nav_order: 4
 ---
 
-{% include base_path %}
+**Reviewer:** [ICML](https://icml.cc/) (2022-present, Top Reviewer of 2022), [NeurIPS](https://neurips.cc/) (2022-present, Top Reviewer of 2022), [ICLR](https://iclr.cc/) (2024-present), [CVPR](https://cvpr.thecvf.com/) (2023), ARR (2026-present), AAAI (2025-2026), [AISTATS](https://aistats.org/) (2022), [ICPR](https://icpr2024.org/) (2024), TMLR.
 
-#### **Reviewer for:**
-
-##### **Conference:**
-
-- [ICML](https://icml.cc/): 2022 (Outstanding reviewer), 2023, 2024
-
-- [NeurIPS](https://neurips.cc/): 2022 (Top reviewer), 2023, 2024
-
-- [ICLR](https://iclr.cc/): 2024
-
-- [AISTATS](https://aistats.org/aistats2024/): 2022
-
-- [CVPR](https://cvpr.thecvf.com/): 2023 
-
-- [ICPR](https://icpr2024.org/): 2024
-
-##### **Journal:**
-
-- Transactions on Machine Learning Research (TMLR)
+**Awards:** NeurIPS 2023 Scholar Award.
