@@ -45,6 +45,17 @@ layout: default
       {% include news.liquid limit=true %}
     {% endif %}
 
+    {% if page.blogs and page.blogs.enabled and page.blogs.items %}
+      <h2>blogs</h2>
+      <ul class="blog-list">
+        {% for blog in page.blogs.items %}
+          <li>
+            <a href="{{ blog.url }}" target="_blank" rel="external nofollow noopener">{{ blog.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+
     {% if page.latest_posts and page.latest_posts.enabled %}
       <h2>
         <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>

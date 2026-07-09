@@ -19,6 +19,24 @@ announcements:
   scrollable: true
   limit: 5
 
+blogs:
+  enabled: true
+  items:
+    - title: "Arctic RL: Open-Source Backend"
+      url: "https://www.snowflake.com/en/blog/engineering/arctic-rl-open-source-backend/"
+    - title: "Hybrid Deep Research Benchmark"
+      url: "https://www.snowflake.com/en/blog/engineering/hybrid-deep-research-benchmark/"
+    - title: "ArcticSwarm: Hybrid Deep Research"
+      url: "https://www.snowflake.com/en/blog/engineering/arcticswarm-hybrid-deep-research/"
+    - title: "ArcticSwarm: Multi-Agent System Architecture"
+      url: "https://www.snowflake.com/en/blog/engineering/arcticswarm-multi-agent-system-architecture/"
+    - title: "Enterprise Text-to-SQL with Arctic R2"
+      url: "https://www.snowflake.com/en/blog/engineering/enterprise-text-to-sql-arctic-r2/"
+    - title: "DARE-bench: LLM Data Science Workflows"
+      url: "https://www.snowflake.com/en/blog/engineering/dare-bench-llm-data-science-workflows/"
+    - title: "Agent World Model for Agentic Reinforcement Learning"
+      url: "https://www.snowflake.com/en/blog/engineering/agent-world-model-for-agentic-reinforment-learning/"
+
 latest_posts:
   enabled: false
 ---
@@ -78,6 +96,15 @@ latest_posts:
     border: 1px solid rgba(107, 114, 128, 0.45);
     background: rgba(107, 114, 128, 0.12);
     color: #4b5563;
+  }
+
+  .blog-list {
+    margin: 0.25rem 0 1.5rem;
+    padding-left: 1.2rem;
+  }
+
+  .blog-list li {
+    margin-bottom: 0.35rem;
   }
 </style>
 
