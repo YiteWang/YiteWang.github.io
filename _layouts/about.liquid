@@ -51,6 +51,9 @@ layout: default
         {% for blog in page.blogs.items %}
           <li>
             <a href="{{ blog.url }}" target="_blank" rel="external nofollow noopener">{{ blog.title }}</a>
+            {% if blog.description %}
+              <span class="blog-description">{{ blog.description }}</span>
+            {% endif %}
           </li>
         {% endfor %}
       </ul>

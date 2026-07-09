@@ -24,18 +24,25 @@ blogs:
   items:
     - title: "Arctic RL: Open-Source Backend"
       url: "https://www.snowflake.com/en/blog/engineering/arctic-rl-open-source-backend/"
+      description: "Open-source infrastructure for training and evaluating reinforcement-learning agents."
     - title: "Hybrid Deep Research Benchmark"
       url: "https://www.snowflake.com/en/blog/engineering/hybrid-deep-research-benchmark/"
+      description: "A benchmark for evaluating long-horizon research agents across web and enterprise data."
     - title: "ArcticSwarm: Hybrid Deep Research"
       url: "https://www.snowflake.com/en/blog/engineering/arcticswarm-hybrid-deep-research/"
+      description: "A hybrid agent system for deep research over private and public information sources."
     - title: "ArcticSwarm: Multi-Agent System Architecture"
       url: "https://www.snowflake.com/en/blog/engineering/arcticswarm-multi-agent-system-architecture/"
+      description: "Architecture notes for coordinating specialized agents in enterprise research workflows."
     - title: "Enterprise Text-to-SQL with Arctic R2"
       url: "https://www.snowflake.com/en/blog/engineering/enterprise-text-to-sql-arctic-r2/"
+      description: "Reasoning models for production-grade text-to-SQL over enterprise data."
     - title: "DARE-bench: LLM Data Science Workflows"
       url: "https://www.snowflake.com/en/blog/engineering/dare-bench-llm-data-science-workflows/"
+      description: "A benchmark for measuring modeling and instruction fidelity in data science workflows."
     - title: "Agent World Model for Agentic Reinforcement Learning"
       url: "https://www.snowflake.com/en/blog/engineering/agent-world-model-for-agentic-reinforment-learning/"
+      description: "Synthetic environments for training agentic reinforcement-learning systems."
 
 latest_posts:
   enabled: false
@@ -104,7 +111,19 @@ latest_posts:
   }
 
   .blog-list li {
-    margin-bottom: 0.35rem;
+    margin-bottom: 0.6rem;
+  }
+
+  .blog-list a {
+    font-weight: 500;
+  }
+
+  .blog-description {
+    display: block;
+    margin-top: 0.1rem;
+    color: var(--global-text-color-light);
+    font-size: 0.9rem;
+    line-height: 1.35;
   }
 </style>
 
