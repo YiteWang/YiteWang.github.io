@@ -6,7 +6,7 @@ subtitle: Research Scientist at Snowflake AI Research
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: avatar.png
   image_circular: false
   more_info: >
     <p>Bellevue, WA</p>
