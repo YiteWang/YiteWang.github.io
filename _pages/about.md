@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Scientist at Snowflake AI Research
+subtitle: Senior Research Scientist at Snowflake AI Research
 
 profile:
   align: right
@@ -127,7 +127,7 @@ latest_posts:
   }
 </style>
 
-I'm a Research Scientist at [Snowflake AI Research](https://www.snowflake.com/en/product/ai/ai-research/), where I train reasoning models and LLM agents, including data science agents and SWE agents. Before that, I was a Research Scientist on ByteDance's Seed-Foundation-Code team.
+I'm a Senior Research Scientist at [Snowflake AI Research](https://www.snowflake.com/en/product/ai/ai-research/), where I train LLM agents for software engineering, data science, and deep research. Before that, I was a Research Scientist on ByteDance's Seed-Foundation-Code team.
 
 I earned my Ph.D. from the University of Illinois at Urbana-Champaign under [Prof. Ruoyu Sun](https://ruoyus.github.io/), with co-advising from [Prof. Naira Hovakimyan](http://naira.mechse.illinois.edu/). In my first year I collaborated with [Prof. Justin Sirignano](https://www.maths.ox.ac.uk/people/justin.sirignano) on deep-learning for computational fluid dynamics (CFD), and during my master's studies I worked with [Prof. Kyle Smith](https://kcsmith.mechse.illinois.edu/) on numerical simulation for energy storage systems.
 
