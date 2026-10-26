@@ -22,6 +22,9 @@ announcements:
 blogs:
   enabled: true
   items:
+    - title: "Arctic-SWE: The Missing Baseline for Agentic RL"
+      url: "https://www.snowflake.com/en/blog/engineering/arctic-swe-agentic-rl/"
+      description: "Model-system co-design and data curation for training software-engineering agents with asynchronous reinforcement learning."
     - title: "Arctic RL: Open-Source Backend"
       url: "https://www.snowflake.com/en/blog/engineering/arctic-rl-open-source-backend/"
       description: "Open-source infrastructure for training and evaluating reinforcement-learning agents."
